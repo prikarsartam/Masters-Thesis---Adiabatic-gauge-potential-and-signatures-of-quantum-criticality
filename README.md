@@ -8,4 +8,9 @@ Leading to --> Susceptibility of entanglement entropy
 
 The `susceptibility of entanglement entropy`, first introduced here - found its way into a new research demonstrating its universality across a wide range of Integrable and non-Integrable spin chains. 
 
-[ArXiv preprint:]([url](https://arxiv.org/abs/2412.02236)) which already got [featured in mathematica commuity]([url](https://community.wolfram.com/groups/-/m/t/3342258)).
+[ArXiv preprint:](https://arxiv.org/abs/2412.02236) which already got [featured in mathematica commuity](https://community.wolfram.com/groups/-/m/t/3342258).
+
+
+
+
+
